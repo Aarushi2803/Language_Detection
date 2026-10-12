@@ -42,6 +42,5 @@ language-detection/
 │── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
-Code
 
 ---
